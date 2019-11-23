@@ -20,8 +20,7 @@ com.yxlady.water.ui.activity.EntryActivity为该程序的默认Activity，
 ## 使用方法
 
 1. 安装并激活Xposed或者类似的软件,比如 EdXposedManager
-
-注意 Xposed 9.0以上系统无法使用，推荐EdXposed
+   注意 Xposed 9.0以上系统无法使用，推荐EdXposed
 
 2. 安装本软件 YxladyWaterHook
 
